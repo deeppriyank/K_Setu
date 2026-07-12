@@ -78,8 +78,8 @@ nav a:hover{
 }
 
 .container{
-    width:90%;
-    max-width:1000px;
+    width:100%;
+    max-width:1300px;
     margin:auto;
     background:white;
     padding:30px;
