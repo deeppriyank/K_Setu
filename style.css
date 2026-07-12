@@ -126,6 +126,8 @@ font-size: 24px; /* Adjust the size as needed */
 }
 
 .card{
+width: 100%;
+max-width:: 400 px;
 background:#fff;
 border-radius:22px;
 display:flex;
@@ -162,6 +164,9 @@ font-size:34px;
 }
 
 .card span{
+display: block;
+word-wrap: break-word;
+overflow-wrap: break-word;
 font-size:32px;
 font-weight:700;
 color:#1f2b46;
